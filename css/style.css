@@ -21,7 +21,7 @@ img {
   height: 514px;
 }
 
-#wheelbarrow { 
+#wheelbarrow {
   position: relative;
   background: url(../images/treasure-chest-background.png) no-repeat;
   z-index: 0;
@@ -35,6 +35,6 @@ img {
   top: 150px;
 }
 
-#sand, #ocean {
+#sand, #ocean img {
   display: inline;
 }
