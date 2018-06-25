@@ -35,6 +35,6 @@ html {
   top: 150px;
 }
 
-#sand, #ocean img {
+#sand, #ocean {
   display: inline;
 }
