@@ -2,7 +2,7 @@ html {
   background: url(../images/beach.jpg) no-repeat top center;
 }
 
-#ocean img {
+img {
   position: relative;
   z-index: 11;
   cursor: pointer;
