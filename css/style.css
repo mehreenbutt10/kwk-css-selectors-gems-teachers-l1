@@ -35,6 +35,6 @@ img {
   top: 150px;
 }
 
-#ocean+img {
+#ocean + img {
   display: inline;
 }
